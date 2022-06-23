@@ -1,0 +1,19 @@
+*{              
+    padding: 0px;
+    margin: 0px;
+}
+    body {
+        background: #142D34;
+        color: #EBFAFA;
+        -webkit-font-smoothing: antialised;
+        font-family: Arial, Helvetica, sans-serif; 
+    }
+    span {
+        color: #D4FC79;
+    }
+
+    img {
+      margin: 0;
+      padding: 0;
+      outline: salmon;
+    }
